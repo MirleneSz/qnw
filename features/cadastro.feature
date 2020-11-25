@@ -9,7 +9,7 @@ Funcionalidade: Cadastro de Usuários
 Cenario: Cadastro
     Dado que acesso a página de cadastro
     Quando submeto o meu cadastro com:
-        |email|mirlenedesouza@gmail.com|
+        |email|mirlenedesouza@gmail.com.br|
         |senha|123456789|
         |senha_confirma|123456789|
     Então devo ser redirecionado para a área logada
